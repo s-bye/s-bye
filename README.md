@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abay
 #### I am first-year student
-![I am first-year student](https://wallpapers.com/images/hd/game-display-of-quitting-twitter-header-6267vf6wxmy28gnw.jpg)
+![I am first-year student](https://i.pinimg.com/736x/26/87/df/2687df3e5a5b1b8a5f95be66e4b87571.jpg)
 
 I'm currently studying Computer Science! Also love to play games, big fan of Valve games! 
 
