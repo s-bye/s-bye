@@ -7,8 +7,7 @@ I'm currently studying Computer Science! Also love to play games, big fan of Val
 Skills: HTML / CSS / Python 
 
 - 🔭 I’m currently working on myself 
-- 🌱 I’m currently learning Python libraries, C++ and C#
-- 🤔 I’m looking for help with learning C++, C# and Python libraries especially matplotlib
+- 🌱 I’m currently learning Python libraries
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/s-bye)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sbye47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/MZBest)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/sayonaranbye)  
 
